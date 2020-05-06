@@ -2,7 +2,7 @@
 
 	1. Processing geo tiff files in python:
 
-			- Read and write geo tiff files.
+			- Read and write geo tiff files
 		
 	2. Remove Speckle noise using NDSAR filter.
 
@@ -37,4 +37,3 @@
 	11. Create a platform independent application for all the functional aspects to converge.
 			
 			-Currently looking into electron.js
-	                                    - fake
